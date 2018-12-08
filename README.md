@@ -1,2 +1,2 @@
-# jcsz1-materialy
+# Materiały
 Tutaj znajdziesz wszystkie prezentacje z kursu

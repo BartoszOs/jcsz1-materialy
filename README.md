@@ -12,3 +12,4 @@ Tutaj znajdziesz wszystkie prezentacje :book: oraz linki do repozytoriów :black
 * podstawy C#
   * repo: https://github.com/infoshareacademy/jcsz1-materialy-csharp
   * [[slides] podstawy C# 1 - zmienne i wyrażenia](slides/2018-12-09-csharp_basic_1.pdf)
+  * [[slides] podstawy C# 2 - aplikacje konsolowe, warunki, kolekcje, pentle](slides/2018-12-15-csharp_basic_2.pdf)
